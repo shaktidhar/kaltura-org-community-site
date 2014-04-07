@@ -1,4 +1,4 @@
-# The new Kaltura.org Community Site - Front Page
+# New Kaltura.org - Front Page
 
 This document aggregrates all ideas regarding the community site frontpage, feel free to use github edit or fork + file pull requests to enhance/expand this document
 
