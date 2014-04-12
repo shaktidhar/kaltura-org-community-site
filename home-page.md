@@ -8,3 +8,4 @@ Necessary items to display
 - not a link to kaltura knowledge, but a direct search into the knowledge base
 - clearly indicate call to action items such as "Kaltura Community Events", "Community Contributions", "Help Wanted" etc.
 - show a list of open tickets, unanswered forums topics and other items where the community should help itself
+- Home page should reflect list of prominent Kaltura CE installations. Community can invite submissions and put them to vote which one should be showcased on the home page.  
